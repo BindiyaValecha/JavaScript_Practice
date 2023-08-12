@@ -84,8 +84,14 @@ else{
     console.log("The number is equal");
 }
 
-    
 
+let firstName = "avinash" //Bob
+if (firstName  == "alice"){
+    console.log(firstName)
+}
+else if (firstName == "bob"){
+    console.log(firstName);
+}
 
 
 
