@@ -63,6 +63,15 @@ else{
 }
 
 
+let rainning = false;
+if (rainning == true){
+    console.log("it is rainning");
+}
+else{
+    console.log("it's not raninng");
+}
+
+
 
 
 
