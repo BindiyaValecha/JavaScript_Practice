@@ -85,13 +85,48 @@ else{
 }
 
 
-let firstName = "avinash" //Bob
-if (firstName  == "alice"){
-    console.log(firstName)
+// let firstName = "avinash" //Bob
+// if (firstName  == "alice"){
+//     console.log(firstName)
+// }
+// else if (firstName == "bob"){
+//     console.log(firstName);
+// }
+
+let firstName1 = "bob";
+if(firstName1 == "alice" || firstName1 == "bob"){
+    console.log(firstName1);
 }
-else if (firstName == "bob"){
-    console.log(firstName);
+
+
+
+let score = 55;
+if (score >= 90){
+    console.log("You got an A");
 }
+else if(score >= 80 && score <= 89){
+    console.log("You got a B");
+}
+else if(score >= 70 && score <= 79){
+    console.log("You got a C");
+}
+else if (score >= 60 && score <= 69){
+    console.log("You got a D");
+}
+else{
+    console.log("You failed");
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
