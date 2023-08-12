@@ -372,6 +372,19 @@ else{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 let dholphine = (96 + 108 + 89) / 3;
 let koalas = (97 + 112 + 101) / 3;
 console.log("Dholphine score", dholphine, "koalas", koalas);
