@@ -150,7 +150,6 @@ else if (num3 > num2 && num3 > num1){
 
 
 
-
 // let num4 = 20;
 // let num5 = 18;
 // if (num4 > num5){
