@@ -72,6 +72,31 @@ else{
 }
 
 
+let a1 = 33;
+let b2 = 33;
+if (a1 > b2  ){
+    console.log(a1);
+}
+else if(b2 > a1){
+    console.log(b2);
+}
+else{
+    console.log("The number is equal");
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
