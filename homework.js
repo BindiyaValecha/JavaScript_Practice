@@ -141,6 +141,73 @@ else if (num3 > num2 && num3 > num1 && num3 > num4){
 else if (num4 >  num1 && num4 > num2 && num4 > num3){
     console.log(num4)
 }
+// A E I O U
+let alphabet = "O"
+if (alphabet == "A"){
+    console.log("Vowel")
+}
+else if (alphabet == "E"){
+    console.log("Vowel");
+}
+else if (alphabet == "I"){
+    console.log("Vowel");
+}
+else if(alphabet == "O"){
+    console.log("Vowel");
+}
+else if (alphabet == "U"){
+    console.log("Vowel");
+}
+else{
+    console.log("Consonent");
+}
+
+
+
+
+
+
+let char = "a";
+if (char == "A" ||  char == "E"  || char == "I"  || char == "O" || char == "U"){
+    console.log("Vowel");
+}
+else if(char == "a" || char == "e" || char == "i" || char == "o" || char == "u"){
+    console.log("Vowel");
+}
+else{
+    console.log("Consonent");
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+let name = "Avinash";
+if (name == "Alice"){
+    console.log(name)
+}
+else if (name == "Bob"){
+    console.log("Bob")
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
