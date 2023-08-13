@@ -125,17 +125,21 @@ else{
 
 
 
-let num1 = 22;
+let num1 = 80;
 let num2 = 11;
 let num3  = 88;
-if (num1 > num2 && num1 > num3){
+let num4 = 26;
+if (num1 > num2 && num1 > num3 && num1 > num4) {
     console.log(num1);
 }
-else if (num2 > num1  && num2 >num3){
+else if (num2 > num1  && num2 >num3 && num2 > num4){
     console.log(num2);
 }
-else if (num3 > num2 && num3 > num1){
+else if (num3 > num2 && num3 > num1 && num3 > num4){
     console.log(num3);
+}
+else if (num4 >  num1 && num4 > num2 && num4 > num3){
+    console.log(num4)
 }
 
 
