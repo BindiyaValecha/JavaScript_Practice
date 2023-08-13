@@ -182,6 +182,40 @@ else{
 
 
 
+let age = 10;
+if (age < 18){
+    console.log("minor");
+}
+else if(age  >= 18  && age <= 50){
+    console.log("adult");
+}
+else if( age > 50){
+    console.log("senior citizen");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
