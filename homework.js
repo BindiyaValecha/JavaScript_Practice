@@ -194,6 +194,18 @@ else if( age > 50){
 }
 
 
+a = 5;
+b = 55;
+c = a+b;
+if( c <= 100){
+    console.log(true)
+}
+else{
+    console.log(false);
+}
+
+
+
 
 
 

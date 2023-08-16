@@ -46,7 +46,9 @@ let num4 = 99;
 let num5 = 99;
 
 if (num3 > num4 && num3 > num4){
-    console.log(num3);
+    console.log(num3);In computer Programming, a Loop is used to execute a group of instructions or a block of code multiple times, without writing it repeatedly. The block of code is executed based on a certain condition. Loops are the control structures of a program.
+    In computer Programming, a Loop is used to execute a group of instructions or a block of code multiple times, without writing it repeatedly. The block of code is executed based on a certain condition. Loops are the control structures of a program.
+
 }
 else if (num4 > num3 && num4 > num5){
     console.log(num4);
