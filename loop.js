@@ -291,6 +291,78 @@ console.log(factorial);
 //5 <= 4?false
 //print 24
 
+for(let i = 10; i > 0; i--){
+    console.log(i)
+}
+//i = 10
+//10 > 0?true
+//print 10
+// i-- -> i = 9
+//9 > 0?true
+//print 9
+// i-- -> i = 8
+//8 > 0?true
+//print 8
+//i-- -> i = 7
+//7 > 0?true
+//print 7
+//...
+
+
+for(let i = 20; i >= 0; i-= 2){
+    console.log(i)
+}
+
+
+for(let i = 3; i <= 30; i+= 3){
+    console.log(i)
+}
+//i = 3
+// 3 <= 30?true
+//print 3
+//i+= 3 -> i = 6
+//6 <= 30?true
+//print 6
+//... 
+
+
+
+
+
+
+
+
+
+
+
+
+// 3 6 9 12 15 18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
