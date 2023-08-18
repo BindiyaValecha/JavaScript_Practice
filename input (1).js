@@ -53,7 +53,7 @@
 
 // console.log(shoot+deaf);
 
-// Data type: string: text with in a quoation marks,  nmber: number without quoation marks
+// Data type: string: text with in a quoation marks,  number: number without quoation marks
 // Boolean new data type, true false
 
 let true1 = "avinash";
