@@ -299,6 +299,7 @@ for(let i = 10; i > 0; i--){
 //print 10
 // i-- -> i = 9
 //9 > 0?true
+
 //print 9
 // i-- -> i = 8
 //8 > 0?true
