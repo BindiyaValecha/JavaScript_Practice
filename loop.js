@@ -370,7 +370,12 @@ for(let i = 3; i <= 30; i+= 3){
 
 
 
-
+let num8 = 3;  // 1 x 2 x 3 = 6
+let factorial1 = 2;
+for(let i = 3; i <= num8; i++){
+    factorial *= i;
+    console.log(factorial)
+}
 
 
 

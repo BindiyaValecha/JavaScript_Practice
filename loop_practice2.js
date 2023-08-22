@@ -3,6 +3,12 @@ for(let i = 1; 10 >= i; i++){
 }
 
 
+
+
+
+
+
+
 for(let i = 9; 10 < i; i--){
     console.log(i)
 }
