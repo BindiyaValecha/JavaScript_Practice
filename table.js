@@ -14,7 +14,7 @@ console.log(num,"x 10 =",num*10)
 
 
 
-let num = prompt("Enter the number: ");
+let num7 = 3
 num = Number(num);
 
 console.log(num,"x 1 =",num*1)

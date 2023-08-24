@@ -7,7 +7,7 @@
 //     console.log(i)
 // }
 // console.log("Task 3");
-// let num = 5;
+//  let num = 5;
 // for(let i = 1; i <= 10; i++){
 //     console.log(num, "x", i, "=", num*i);
 // }
@@ -26,25 +26,56 @@
 // console.log("sum", sum)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-for (let i = 1; i <= 5; i++) {
-    console.log(i);
+console.log("Task 6")
+factorial = 1;
+let num2 = 3;
+for(let i = 1; i <= num2; i++){
+    factorial *= i;
 }
-for(let j = i; i <= 3; j++){
-    console.log("Inner loop " + j);
+console.log("factorial",factorial)
+
+
+let num3 = 104;
+if (num3 % 2 == 0){ // 0 1
+    console.log("even")
 }
+else if (num3 % 2 == 1){
+    console.log("odd")
+}
+// even defintion: those number which are exactly divisible by two.
+//odd definition: those numbers which are not exactly divisible by two.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+number4 = 2
+for(i = 1; i <= 10; i++){
+    console.log(number4,   "x",i, "=", number4*i)
+}
+
+// 3 x 1 = 3
+// 3 x 2 = 6
+// 3 x 3 = 9
+// 3 x 4 = 12
+// 3 x 5 = 15
+// 3 x 6 = 18
+// 3 x 7 = 21
+// 3 x 8 = 24
+// 3 x 9 = 27
+// 3 x 10 = 30
+
+
+
 
 
 
