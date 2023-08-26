@@ -85,7 +85,7 @@ n1 = 5
 for(let i = n1; i >= n1; i--){
     sum +=i
 }
-console.log("sum2", sum)
+console.log("sum", sum)
 //sum = 0
 // n1 = 5
 //i = 1
