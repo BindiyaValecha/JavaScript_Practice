@@ -59,7 +59,7 @@ const age = 19;
 if (age === 18)("You just became an adult : D");
 
 const scoreDolphins = (96 + 108 + 89)/ 3;
-const scoreKoalas = (88 + 91 + 110)/ 3;
+const scoreKoalas = (88 + 89 + 110)/ 3;
 if(scoreDolphins > scoreKoalas){
     console.log("Dolphins win the trophy")
 }
@@ -69,6 +69,27 @@ else if (scoreKoalas > scoreDolphins){
 else if (scoreDolphins === scoreKoalas){
     console.log("Both win the trophy!");
 }
+
+let sum = 0;
+let n = 40;
+
+for (let i = 0; i < n; i++){
+    sum += (i+1)
+}
+console.log("sum of first" + n + "natural number is" + sum)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
