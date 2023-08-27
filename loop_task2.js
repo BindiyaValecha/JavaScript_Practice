@@ -82,7 +82,9 @@ console.log("sum of first" + n + "natural number is" + sum)
 
 
 
-
+for (i = 50;i >= 8;i-=5){
+    console.log(i)
+}
 
 
 
