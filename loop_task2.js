@@ -87,6 +87,14 @@ for (i = 50;i >= 8;i-=5){
 }
 
 
+let score1 = (22 + 77 + 1 + 9);
+let score2 = (11 + 44 + 3 + 8);
+for (let i = 100; i > 0; i-=5){
+    score1*=score2
+}
+console.log(score1 * score2)
+
+
 
 
 
