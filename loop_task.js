@@ -78,6 +78,17 @@ for(i = 1; i <= 10; i++){
 for(let i = 2;i >= 0;i-=1){
     console.log(i)
 }
+//i = 2
+//2 >= 0?true
+//print
+//2-1 >- i = 1
+//1 >= 0?true
+//print 1
+//1-1 >- i = 0
+// 0 >= 0?true
+// print 0
+//0-1 >- 
+
 
 
 
