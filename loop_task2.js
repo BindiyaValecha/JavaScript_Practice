@@ -37,62 +37,7 @@
 
 
 
-// console.log("Task 2")
-// for(let i = 2; 20 >= i ; i+=2){
-//     console.log(i)
-//  }
-//  // 2 4 6 8 10 12 ... 20
 
-//  // 1 3 5 7 9 11 13 ... 29
-//  console.log("Task 7");
-// for(let i = 1; 30 >= i;i+=2){
-//     console.log(i)
-// }
-
-
-
-
-
-
-
-const age = 19;
-if (age === 18)("You just became an adult : D");
-
-const scoreDolphins = (96 + 108 + 89)/ 3;
-const scoreKoalas = (88 + 89 + 110)/ 3;
-if(scoreDolphins > scoreKoalas){
-    console.log("Dolphins win the trophy")
-}
-else if (scoreKoalas > scoreDolphins){
-    console.log("koalas win the trophy");
-}
-else if (scoreDolphins === scoreKoalas){
-    console.log("Both win the trophy!");
-}
-
-let sum = 0;
-let n = 40;
-
-for (let i = 0; i < n; i++){
-    sum += (i+1)
-}
-console.log("sum of first" + n + "natural number is" + sum)
-
-
-
-
-
-for (i = 50;i >= 8;i-=5){
-    console.log(i)
-}
-
-
-let score1 = (22 + 77 + 1 + 9);
-let score2 = (11 + 44 + 3 + 8);
-for (let i = 100; i > 0; i-=5){
-    score1*=score2
-}
-console.log(score1 * score2)
 
 
 

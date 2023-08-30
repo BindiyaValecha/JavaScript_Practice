@@ -58,7 +58,7 @@ else if (num3 % 2 == 1){
 
 
 
-number4 = 2
+number4 = 8
 for(i = 1; i <= 10; i++){
     console.log(number4,   "x",i, "=", number4*i)
 }
@@ -75,7 +75,9 @@ for(i = 1; i <= 10; i++){
 // 3 x 10 = 30
 
 
-
+for(let i = 2;i >= 0;i-=1){
+    console.log(i)
+}
 
 
 
