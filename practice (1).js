@@ -1,5 +1,5 @@
 
-// let lastName = "KUmar";
+// let lastName = "Kumar";
 // lastName = "Avinash";
 
 // console.log(lastName);
@@ -17,10 +17,25 @@
 // let def = "34";
 // console.log(abc+def);
 
-if(3 > 2){
-    var x = 5;
-}
+// if(3 > 2){
+//     var x = 5;
+// }
 
 
-console.log(x);
+// console.log(x);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

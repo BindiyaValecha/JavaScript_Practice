@@ -339,7 +339,7 @@ else{
   console.log("The number is zero");
 }
 
-let age = 20
+let age1 = 20
 age = Number(age)
 if (age >= 18){
   console.log("You are eligible for vote");
@@ -397,6 +397,12 @@ else if (koalas > dholphine){
 else{
   console.log("match draw");
 }
+// const originalArray = [1, 2, 3, 4, 5];
+// const reservedArray = [];
+// for(let i = originalArray.length - 1; i >= 0; i--){
+//   reservedArray.push(originalArray[i]);
+// }
+// console.log(reservedArray)
 
 
 
