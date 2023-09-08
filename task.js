@@ -168,6 +168,13 @@ else if (number4 < 0){
 else if (number4 == 0){
     console.log("The number is zero");
 }
+let number8 = 3;
+if (number8 >= 4){
+    console.log("the number is great")
+}
+else {
+    console.log("the number is down")
+}
 
 
 
