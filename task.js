@@ -175,6 +175,10 @@ if (number8 >= 4){
 else {
     console.log("the number is down")
 }
+for(i = 300; i <= 400; i+=5){
+    console.log(i)
+}
+
 
 
 
