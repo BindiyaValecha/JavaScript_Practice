@@ -136,7 +136,7 @@ mathematician = Number(mathematician);
 chemistry = Number(chemistry);
 let totalMarks = english + physics + biology + mathematician + chemistry;
 let percantage = obatianedMarks / 500 * 100;
-console.log ("your percantage is", percantage "%");
+console.log ("your percantage is", percantage  );
 
 
 console.log(fullName, "total your secure marks is", totalMarks)

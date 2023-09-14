@@ -6,7 +6,7 @@
 // num2 =Number(num2);
 
 let num1 = 5;
-let symbol = "+";
+let symbol = "-";
 let num2 = 12
 
 if(symbol == "+"){
