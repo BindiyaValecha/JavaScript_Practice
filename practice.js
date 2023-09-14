@@ -15,6 +15,15 @@ if (number == "12345" && namE == "Rose" ){
 else {
     console.log("Failed")
 }
+for(let i = 33; i >= 6; i-=5){
+    console.log(i)
+}
+
+
+
+
+
+
 
 
 
