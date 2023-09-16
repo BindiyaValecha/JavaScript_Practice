@@ -15,9 +15,16 @@ if (number == "12345" && namE == "Rose" ){
 else {
     console.log("Failed")
 }
-for(let i = 33; i >= 6; i-=5){
+for(let i = 33; i >= 6; i--){
     console.log(i)
 }
+
+
+
+
+let selectedColors = ['Red', 'Blue'];
+selectedColors[2] = 'Green';
+console.log(selectedColors);
 
 
 
