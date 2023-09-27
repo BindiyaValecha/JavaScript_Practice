@@ -23,7 +23,7 @@ for(let i = 33; i >= 6; i--){
 
 
 let selectedColors = ['Red', 'Blue'];
-selectedColors[2] = 'Green';
+selectedColors[2] = '1';
 console.log(selectedColors);
 
 

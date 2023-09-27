@@ -45,21 +45,5 @@ console.log("you failed");
 
 console.log("Testing the github");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for (i = 66;i < 8;i-=2);
+console.log(i)
