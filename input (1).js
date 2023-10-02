@@ -73,6 +73,9 @@ let d = 9 > 3
 let east = 30 < 40
 console.log(d, east);
 console.log (typeof d, typeof east);
+for(let i = 66;i < 8;i-=2){
+    console.log(i)
+}
 
 
 
