@@ -3,6 +3,7 @@ console.log("The value of variable a is ", a);
 let b = "my city is larkana"
 console.log("b");
 let age7 = 43;
+age = 18
 console.log("her age is",age);
 let country = "dubai";
 let country2 = "pakistan";
