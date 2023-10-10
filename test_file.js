@@ -12,4 +12,23 @@ console.log("2 * 3 = ", 2 * 3);
 let num1 = 112;
 num1 = "harry";
 console.log(num1)
+//
+let num2 = 11;
+if(num2 > 0){
+    console.log("Positive")
+}
+else if (num2 < 0){
+    console.log("Nagetive")
+}
+else{
+    console.log("Zero")
+}
+
+
+
+
+
+
+
+
 
