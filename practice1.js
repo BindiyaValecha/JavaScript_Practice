@@ -37,7 +37,7 @@ num2/=num1;
 console.log(num2)
 
 // comparasion operators
-let bindiyaAge = 24;
+let bindiyaAge = "23"
 let avinashAge  = 23;
 let answer = bindiyaAge == avinashAge; //equal to 
 console.log(answer)
@@ -62,6 +62,35 @@ console.log(answer)
 
 answer = bindiyaAge !== avinashAge     // not equal value or not equal type
 console.log(answer)
+
+// javascript string operators
+
+let text1 = "Bindiya is learning ";
+let text2 = "javascript";
+
+answer = text1 < text2;
+console.log(answer)
+
+answer = text1 > text2;
+console.log(answer)
+
+// String Addition
+answer = text1+text2;
+console.log(answer)
+
+text1+=text2
+console.log(text1)
+
+// logical operators
+
+let name1 = "avinash";
+let  password = "12345";
+answer = name1 == "avinash"  && !(password == "12345")  // logical and
+console.log(answer)
+
+answer =  !(name1 == "avinashqq") || !(password == "1236") // logical or
+console.log(answer) 
+
 
 
 
