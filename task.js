@@ -42,7 +42,7 @@ let num1 = 22;
 let num2 = 99;
 console.log("Hello world");
 let name = "kit";
-console.log("Hello", name);
+console.log("Hello", name1);
 let num3 = 44;
 let num4 = 2;
 console.log("sum", num3 + num4);
